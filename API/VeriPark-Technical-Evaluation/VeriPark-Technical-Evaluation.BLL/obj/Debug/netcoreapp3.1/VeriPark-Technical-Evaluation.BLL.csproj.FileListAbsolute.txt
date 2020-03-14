@@ -1,0 +1,8 @@
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.deps.json
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.pdb
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.AssemblyInfo.cs
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.pdb
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.BLL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.BLL.csprojAssemblyReference.cache

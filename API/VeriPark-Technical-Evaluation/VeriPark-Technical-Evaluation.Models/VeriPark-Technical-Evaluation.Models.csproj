@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>VeriPark_Technical_Evaluation.Models</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.Enums\VeriPark-Technical-Evaluation.Enums.csproj" />
+  </ItemGroup>
+
+</Project>

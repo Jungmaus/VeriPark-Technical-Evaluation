@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>VeriPark_Technical_Evaluation.DAL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.Core\VeriPark-Technical-Evaluation.Core.csproj" />
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.Entity\VeriPark-Technical-Evaluation.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

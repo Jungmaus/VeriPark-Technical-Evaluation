@@ -1,0 +1,27 @@
+<label class="title">Announcements</label>
+
+<button mat-mini-fab color="white" style="margin-left:2%;" (click)="goAddPage()">
+    <mat-icon>add</mat-icon>
+</button>
+
+
+<mat-list style="height: 400px;overflow-y: scroll;">
+    <div *ngFor="let announcement of announcements">
+    <mat-list-item class="item" role="listitem">
+
+        <!-- AnnouncementTypeEnum.Warning -->
+        <img *ngIf="announcement.announcementType === 0"
+            src="https://f0.pngfuel.com/png/908/900/warning-signage-png-clip-art.png" style="width:18%;height: 60px;">
+
+        <!-- AnnouncementTypeEnum.Information -->
+        <img *ngIf="announcement.announcementType === 1"
+            src="https://img.favpng.com/15/17/2/logo-information-library-business-png-favpng-NLLSr2WRxACa6KwDW7fAKLbKg.jpg"
+            style="width:18%;height: 60px;">
+
+        <label class="itemSubject"><b>{{announcement.title}}</b> <br /> {{announcement.description}}</label>
+
+    </mat-list-item>
+    <mat-divider class="divider"></mat-divider>
+    </div>
+
+</mat-list>

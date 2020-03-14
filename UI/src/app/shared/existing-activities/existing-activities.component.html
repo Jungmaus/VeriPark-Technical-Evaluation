@@ -1,0 +1,15 @@
+
+
+<label class="title">Existing Activities</label>
+<mat-list style="overflow-y: scroll;height: 400px;">
+    <mat-list-item *ngFor="let application of existingApplications" class="item" role="listitem">
+
+        <img src="{{application.imagePath}}" style="width:23%;">        
+        <label class="itemSubject"><b>{{application.title}}</b> <br /> {{application.description}}</label>
+      
+
+    </mat-list-item>
+    <mat-divider class="divider"></mat-divider>
+
+    
+</mat-list>

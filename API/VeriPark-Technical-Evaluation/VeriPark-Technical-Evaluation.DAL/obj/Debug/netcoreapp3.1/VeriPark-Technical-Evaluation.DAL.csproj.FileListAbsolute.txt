@@ -1,0 +1,15 @@
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.csprojAssemblyReference.cache
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.AssemblyInfo.cs
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.deps.json
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.pdb
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.Core.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.Entity.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.Enums.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.Core.pdb
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.Entity.pdb
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\bin\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.Enums.pdb
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.csproj.CopyComplete
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.dll
+C:\Users\Samet Şentürk\Desktop\VeriPark-Technical-Evaluation\API\VeriPark-Technical-Evaluation\VeriPark-Technical-Evaluation.DAL\obj\Debug\netcoreapp3.1\VeriPark-Technical-Evaluation.DAL.pdb

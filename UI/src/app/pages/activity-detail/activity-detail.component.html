@@ -1,0 +1,31 @@
+<br />
+<button mat-mini-fab color="white" style="margin-left:2%;" (click)="goPreviousPage()">
+    <mat-icon>keyboard_return</mat-icon>
+</button>
+<label class="pageTitle">Activity Details</label>
+<br />
+
+<mat-grid-list cols="4" rowHeight="3:1" style="margin-top: 2%;">
+    <mat-grid-tile class="active" rowspan="4">
+        <mat-grid-tile-header style="display: block;">
+            <img src="https://i.pinimg.com/736x/47/cb/ae/47cbae7c6ee2a85e8b34439764104833--customer-support-customer-service.jpg"
+                width="100%;" />
+        </mat-grid-tile-header>
+        <div class="tileContent">
+            <label class="lbltitle">Activity Details</label>
+            <br />
+            <label class="lblcategory">Phone Call</label>
+        </div>
+    </mat-grid-tile>
+    <mat-grid-tile class="active" rowspan="2" colspan="1">
+        <mat-grid-tile-header style="display: block;">
+            <label class="lbltitle due">Due Date</label>
+        </mat-grid-tile-header>
+    </mat-grid-tile>
+    <mat-grid-tile rowspan="2">
+        3
+    </mat-grid-tile>
+    <mat-grid-tile rowspan="2">
+        4
+    </mat-grid-tile>
+</mat-grid-list>

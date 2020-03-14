@@ -1,0 +1,68 @@
+<br />
+
+<button mat-mini-fab color="white" style="margin-left:2%;" (click)="goPreviousPage()">
+    <mat-icon>keyboard_return</mat-icon>
+</button>
+
+<label class="pageTitle">Add Announcement</label>
+
+<form [formGroup]="announcementAddForm" (ngSubmit)="addAnnouncement()" class="addForm">
+
+    <mat-form-field>
+        <mat-label>Title</mat-label>
+        <input matInput formControlName="title" [(ngModel)]="announcement.title">
+    </mat-form-field>
+    <mat-error
+        *ngIf="announcementAddForm.controls.title?.errors && (announcementAddForm.controls.title?.dirty || announcementAddForm.controls.title?.touched)">
+        <div *ngIf="announcementAddForm.controls.title?.errors.required">
+            <br /> Title is required.
+        </div>
+        <div *ngIf="announcementAddForm.controls.title?.errors.maxLength">
+            <br /> Title can have maximum 25 length.
+        </div>
+    </mat-error>
+    <br />
+    <mat-form-field>
+        <mat-label>Description</mat-label>
+        <textarea matInput formControlName="description" [(ngModel)]="announcement.description"></textarea>
+    </mat-form-field>
+    <mat-error
+        *ngIf="announcementAddForm.controls.description?.errors && (announcementAddForm.controls.description?.dirty || announcementAddForm.controls.description?.touched)">
+        <div *ngIf="announcementAddForm.controls.description?.errors.required">
+            <br /> Description is required.
+        </div>
+        <div *ngIf="announcementAddForm.controls.description?.errors.maxLength">
+            <br /> Description can have maximum 125 length.
+        </div>
+    </mat-error>
+    <br />
+    <mat-form-field>
+        <mat-label>Date</mat-label>
+        <input matInput [matDatepicker]="datepicker" formControlName="date" [(ngModel)]="announcement.date">
+        <mat-datepicker-toggle [for]="datepicker"></mat-datepicker-toggle>
+        <mat-datepicker #datepicker></mat-datepicker>
+    </mat-form-field>
+    <mat-error
+        *ngIf="announcementAddForm.controls.date?.errors && (announcementAddForm.controls.date?.dirty || announcementAddForm.controls.date?.touched)">
+        <div *ngIf="announcementAddForm.controls.date?.errors.required">
+            <br /> Date is required.
+        </div>
+    </mat-error>
+    <br />
+    <mat-form-field>
+        <mat-label>Type</mat-label>
+        <mat-select formControlName="type" [(ngModel)]="announcement.type">
+            <mat-option *ngFor="let enumItem of ActivityTypeEnum | keyvalue" value="{{enumItem.key}}">
+                {{enumItem.value}}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
+    <mat-error
+        *ngIf="announcementAddForm.controls.announcementType?.errors && (announcementAddForm.controls.announcementType?.dirty || announcementAddForm.controls.announcementType?.touched)">
+        <div *ngIf="announcementAddForm.controls.announcementType?.errors.required">
+            <br /> Date is required.
+        </div>
+    </mat-error>
+    <br />
+    <button mat-raised-button color="primary" type="submit">Save</button>
+</form>

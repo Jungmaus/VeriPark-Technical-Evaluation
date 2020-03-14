@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>VeriPark_Technical_Evaluation.API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.Core\VeriPark-Technical-Evaluation.Core.csproj" />
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.DAL\VeriPark-Technical-Evaluation.DAL.csproj" />
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.Entity\VeriPark-Technical-Evaluation.Entity.csproj" />
+    <ProjectReference Include="..\VeriPark-Technical-Evaluation.Models\VeriPark-Technical-Evaluation.Models.csproj" />
+  </ItemGroup>
+
+
+</Project>

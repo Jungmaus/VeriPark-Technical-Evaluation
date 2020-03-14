@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.DAL\\VeriPark-Technical-Evaluation.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Core\\VeriPark-Technical-Evaluation.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Core\\VeriPark-Technical-Evaluation.Core.csproj",
+        "projectName": "VeriPark-Technical-Evaluation.Core",
+        "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Core\\VeriPark-Technical-Evaluation.Core.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj": {
+                "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.DAL\\VeriPark-Technical-Evaluation.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.DAL\\VeriPark-Technical-Evaluation.DAL.csproj",
+        "projectName": "VeriPark-Technical-Evaluation.DAL",
+        "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.DAL\\VeriPark-Technical-Evaluation.DAL.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Core\\VeriPark-Technical-Evaluation.Core.csproj": {
+                "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Core\\VeriPark-Technical-Evaluation.Core.csproj"
+              },
+              "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj": {
+                "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj",
+        "projectName": "VeriPark-Technical-Evaluation.Entity",
+        "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\VeriPark-Technical-Evaluation.Entity.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Enums\\VeriPark-Technical-Evaluation.Enums.csproj": {
+                "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Enums\\VeriPark-Technical-Evaluation.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Enums\\VeriPark-Technical-Evaluation.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Enums\\VeriPark-Technical-Evaluation.Enums.csproj",
+        "projectName": "VeriPark-Technical-Evaluation.Enums",
+        "projectPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Enums\\VeriPark-Technical-Evaluation.Enums.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\Desktop\\VeriPark-Technical-Evaluation\\API\\VeriPark-Technical-Evaluation\\VeriPark-Technical-Evaluation.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

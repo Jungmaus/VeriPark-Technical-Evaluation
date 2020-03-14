@@ -1,0 +1,45 @@
+
+
+mat-grid-tile {
+    background-color: white;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+mat-grid-list {
+    width: 95%;
+}
+
+.active {
+    background-color: orange!important;
+}
+
+.mat-grid-tile-header {
+    min-height: 100px!important;
+    height: auto!important;
+    background-color: orange!important;
+}
+
+.lbltitle {
+    color:white;
+    font-size: 100%;
+    margin-left: 0.5%;
+}
+
+.lblcategory {
+    color:white;
+    font-size: 180%;
+    margin-left: 0.5%;
+}
+
+.tileContent {
+    display: block;
+    margin-top: 30%!important;
+    width:90%;
+    margin-left: 1%;
+}
+
+.due {
+    margin-top: 3%;
+    font-size: 200%;
+}
